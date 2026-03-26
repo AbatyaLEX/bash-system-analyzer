@@ -35,8 +35,8 @@ This collection of scripts provides detailed directory statistics, system inform
 
 ## Requirements
 
-- Linux OS
-- Bash shell
+- Linux OS (tested on Ubuntu 24.04.4 LTS)
+- Bash 5.2
 - Utilities: find, md5sum, ip, free, df, etc.
 
 ---
